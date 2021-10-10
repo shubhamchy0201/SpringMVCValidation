@@ -1,0 +1,2 @@
+spring.validation.CustomerController=org.springframework.stereotype.Component
+spring.validation.HomeController=org.springframework.stereotype.Component
